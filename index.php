@@ -15,6 +15,7 @@
 	<ul>
 		<li>Cadastre-se</li>
 		<li>Área restrita</li>
+		<li>Nova categoria</li>
 	</ul>
 </nav>
   
