@@ -16,6 +16,7 @@
 		<li>Cadastre-se</li>
 		<li>Área restrita</li>
 		<li>Nova categoria</li>
+		<li>ENTENDENDO O HEAD</li>
 	</ul>
 </nav>
   
